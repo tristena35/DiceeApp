@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dicee</string>
-    <string name="button_text">Roll</string>
-    <string name="description_Button">Rolls the dice.</string>
-    <string name="casino_logo">Casino Logo</string>
+    <string name="button_text">Rodar</string>
+    <string name="description_Button">" Tira los dados."</string>
     <string name="left_dice_image">Left Dice Image</string>
     <string name="right_dice_image">Right Dice Image</string>
 </resources>
